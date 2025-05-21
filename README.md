@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on, honestly I have no idea yet.
 - 📫 How to reach me through my email: heykbabyyy13@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I got into this field by accident. Almost three years ago I found out my boyfriend at the time was
-  changing his location and even though we had the same kind of phone his stuff would look different than mine.
-  After some digging and a shit ton of research I found my calling and the truth that I was dating a horrible person...
+- ⚡ Plot twist! Totally a bug, not a feature! I debugged a relationship and accidentally discovered my passion for tech. Turns out, my ex was a total syntax error. Who knew debugging a bad relationship would launch my true calling?
 
 <!---
 kbabyyy13/kbabyyy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
