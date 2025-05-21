@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbabyyy13
 - 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Version Control
+- 🌱 I’m currently learning No-Code Technologies and Tools
 - 💞️ I’m looking to collaborate on, honestly I have no idea yet.
 - 📫 How to reach me through my email: heykbabyyy13@gmail.com
 - 😄 Pronouns: She/Her
