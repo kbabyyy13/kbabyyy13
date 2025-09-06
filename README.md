@@ -1,5 +1,5 @@
 - Hi, welcome!
-- I specialize in in Full-Stack Development
+- I specialize in Full-Stack Development
 - I’m currently learning Ethical Hacking
 - I’m looking to collaborate on, honestly I have no idea yet.
 - How to reach me through my email: krystamcalister@outlook.com
